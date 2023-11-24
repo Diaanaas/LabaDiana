@@ -1,0 +1,14 @@
+D:\LabVer\LabaDiana\AG\bin\Debug\net6.0\AG.exe
+D:\LabVer\LabaDiana\AG\bin\Debug\net6.0\AG.deps.json
+D:\LabVer\LabaDiana\AG\bin\Debug\net6.0\AG.runtimeconfig.json
+D:\LabVer\LabaDiana\AG\bin\Debug\net6.0\AG.dll
+D:\LabVer\LabaDiana\AG\bin\Debug\net6.0\AG.pdb
+D:\LabVer\LabaDiana\AG\obj\Debug\net6.0\AG.GeneratedMSBuildEditorConfig.editorconfig
+D:\LabVer\LabaDiana\AG\obj\Debug\net6.0\AG.AssemblyInfoInputs.cache
+D:\LabVer\LabaDiana\AG\obj\Debug\net6.0\AG.AssemblyInfo.cs
+D:\LabVer\LabaDiana\AG\obj\Debug\net6.0\AG.csproj.CoreCompileInputs.cache
+D:\LabVer\LabaDiana\AG\obj\Debug\net6.0\AG.dll
+D:\LabVer\LabaDiana\AG\obj\Debug\net6.0\refint\AG.dll
+D:\LabVer\LabaDiana\AG\obj\Debug\net6.0\AG.pdb
+D:\LabVer\LabaDiana\AG\obj\Debug\net6.0\AG.genruntimeconfig.cache
+D:\LabVer\LabaDiana\AG\obj\Debug\net6.0\ref\AG.dll
